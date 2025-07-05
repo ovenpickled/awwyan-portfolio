@@ -2,13 +2,13 @@
 
 Welcome to my **Personal Portfolio Website**, a clean, modern, and responsive web application built to showcase projects, skills, and experience in software development. This project is powered by modern frontend technologies and emphasizes performance, accessibility, and aesthetic minimalism.
 
----
+
 
 ## 🌐 Live Demo
 
-**🔗 [Visit the Portfolio]([https://your-deployed-link.com](https://awwyan.netlify.app/))**  
+**🔗 [Visit the Portfolio](https://awwyan.netlify.app/)** 
 
----
+
 
 ## ✨ Features
 
